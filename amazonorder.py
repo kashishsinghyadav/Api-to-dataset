@@ -1,5 +1,5 @@
 import requests
-url = "https://real-time-amazon-data.p.rapidapi.com/search"
+url = "https://real-time-amazon-data.p.rapidapi.com/search" # from rapid api
 
 querystring = {"query":"Phone","page":"1","country":"US","category_id":"aps"}
 
